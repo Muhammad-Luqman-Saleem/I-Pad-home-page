@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(223, 221, 221);
+}
+
+
+
+
+.topbutton {
+    height: auto;
+    background-color: white;
+    margin-top: 20px;
+
+}
+
+.AB {
+
+    background-color: white;
+}
+
+.images {
+
+    width: 1000px;
+    min-width: 100px;
+    height: 1000px;
+    max-height: 1000px;
+    min-height: 100px;
+    
+    
+}
